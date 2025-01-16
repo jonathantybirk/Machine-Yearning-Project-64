@@ -68,7 +68,10 @@ The directory structure of the project looks like this:
 └── tasks.py                  # Project tasks
 ```
 
+## Downloading the data set
+A Google Cloud Bucket is used for data version control. Reach out to a contributer to get authorized for access.
+Run `dvc pull` to fetch the newest data from the remote storage.
+
 
 Created using [mlops_template](https://github.com/SkafteNicki/mlops_template),
-a [cookiecutter template](https://github.com/cookiecutter/cookiecutter) for getting
-started with Machine Learning Operations (MLOps).
+a [cookiecutter template](https://github.com/cookiecutter/cookiecutter).
