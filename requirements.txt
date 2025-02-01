@@ -4,7 +4,7 @@ invoke==2.2.0
 torch==2.5.1
 typer==0.15.1
 
-ruff==0.9.1
+ruff==0.9.4
 pipreqs==0.5.0
 dvc==3.59.0
 dvc-gs==3.0.1
